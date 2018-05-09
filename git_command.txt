@@ -1,0 +1,6 @@
+git config --global user.email "you@example.com"
+git status
+git add
+git commit -m "commit"
+git push  // (User name: sihwan, Password: 12345qwertQ)
+git pull  // update
